@@ -1,6 +1,6 @@
 # Memory Game
 
-This is Memory Game using HTML,CSS and pure JAVASCRIPT.
+This is Memory Game made using HTML,CSS and pure JAVASCRIPT.
 
 ## Getting Started
 
@@ -8,9 +8,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need to have installed Visual Studio IDE and live server extension.
+Intsall:
+-Visual Studio IDE
+-Live server extension
 
-### To Run Project
+### To Run The Project
 
 Go to index.html and click on open with live server
 
